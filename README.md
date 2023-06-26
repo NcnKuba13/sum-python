@@ -2,7 +2,7 @@
 Rozwięcie projektu z programowania. Kod programu został przepisany z Javy do Pythona, skypty w języku Python są obsługiwane przez skrypt batch,
 a raporty wynikowe są generowane w formacie HTML.
 
-Suma ciągu jedynkowego jest to zadanie z I etapu V Olimpaiday Informatycznej z roku 1997/98. 
+Suma ciągu jedynkowego jest to zadanie z I etapu V Olimpiady Informatycznej z roku 1997/98. 
 Ciąg liczbowy o wartościach będących liczbami całkowitymi nazywamy jedynkowym, 
 jeżeli 2 dowolne jego sąsiednie wyrazy różnią się od siebie dokładnie o 1 oraz jego pierwszy wyraz jest równy 0.
 
